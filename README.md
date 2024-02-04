@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Electrodomésticos
 
 <div align="center">
@@ -160,4 +159,3 @@ A continuación se puede apreciar una aplicación programada con el pseudocódig
 ## Agradecimientos
 
 Muchas gracias por investigar sobre esta aplicación, si tienes alguna sugerencia se escuchará atentamente.
->>>>>>> bf98f35 (8vo Commit: aplicación de colores en las impresiones)
